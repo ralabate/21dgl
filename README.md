@@ -1,7 +1,6 @@
 # 21dgl
 Twenty-one day Gauntletlike, or, Thirty-day Dandylike minus powerups and player projectiles
 
-DEV DIARY
 4/21: PLAN! NR char anim and sound design CQ env art fx anim and level design; both work on feel  
 4/22: 0  
 4/23: 0  
