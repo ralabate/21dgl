@@ -11,3 +11,4 @@ Twenty-one day Gauntletlike, or, Thirty-day Dandylike minus powerups and player 
 4/28: 0  
 4/29: 0  
 4/30: 0  
+5/01: REPLAN! NR char anim CQ collider on top of char anim  
