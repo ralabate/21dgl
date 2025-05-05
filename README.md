@@ -13,5 +13,8 @@ Twenty-one day Gauntletlike, or, Thirty-day Dandylike minus powerups and player 
 4/30: 0  
 5/01: REPLAN! NR char anim CQ collider on top of char anim  
 5/02: New staff swing animation in-game, ideas on collating GLTF  
+5/03: 0  
+5/04: 0  
+5/05: More staff swing animation tests
 
 ![staff_swing.gif](https://github.com/ralabate/21dgl/blob/main/staff_swing.gif)
